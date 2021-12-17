@@ -8,7 +8,7 @@
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-<center><img src="assets/img/machine-learning.jpeg"/></center>
+<center><img src="/assets/img/machine-learning.jpeg"/></center>
 
 
 
@@ -29,6 +29,6 @@ Compared to a classical approach, using a Recurrent Neural Networks (RNN) with L
 
 Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
 
-<center><img src="assets/img/human-activity.jpeg"/></center>
+<center><img src="/assets/img/human-activity.jpeg"/></center>
 
 
