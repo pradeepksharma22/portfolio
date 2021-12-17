@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Pradeep Sharma </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+
+description:
+  <p align="center">
+  <a href="#">Resume</a> |
+  <a href="https://www.linkedin.com/in/pradeep-sharma-44451426/">LinkedIn</a> |
+  <a href="https://github.com/pradeepksharma22">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Enterprise Search( Coveo Search, Apache Solr, Elastic Search, Lucidworks Fusion), Spark, Machine learning & NLP related problems.
+  Also handing the complex search problesm using above search technologies.
+  Worked with Interglobe Technologies in GDS integration team.
+  Working in Search domain for 7 years.
+  <br>
+  </p>
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
